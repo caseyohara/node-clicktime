@@ -1,0 +1,17 @@
+{
+  "author": "Casey O'Hara <caseyo@caseyohara.com> (http://github.com/caseyohara)",
+  "name": "clicktime",
+  "description": "A wrapper for the ClickTime SOAP API",
+  "version": "0.0.2",
+  "homepage": "http://github.com/caseyohara/node-clicktime",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/caseyohara/node-clicktime.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "coffee-script": ">=1.0.1"   
+    , "xmlhttprequest " : ">=1.2.2"
+    , "xml2json" : ">=0.2.3" 
+  }
+}
