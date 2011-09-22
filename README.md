@@ -11,7 +11,7 @@ In your node project:
 
 And in your script:
 
-	var Clicktime = require('clicktime');
+	var ClickTime = require('clicktime');
 
 
 **Usage**
