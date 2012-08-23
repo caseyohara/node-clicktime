@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/caseyohara/node-clicktime.png)](http://travis-ci.org/caseyohara/node-clicktime)
 node-clicktime
 =============
 
